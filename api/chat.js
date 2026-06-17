@@ -410,9 +410,8 @@ Use these interview questions:
 6. Did you watch a lot of TV during the break?
 7. Do you have any hobbies?
 8. What hobbies would you like to do someday?
-
-
-';
+`
+;
 
     const messages = [
       { role: "system", content: systemPrompt },
